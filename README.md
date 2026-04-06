@@ -6,6 +6,7 @@ a webpage that contains .
 * an about me section with small personal introduction, an inspirational quote and an image of me.
 * a project section containing two projects each with description and photo.
 * a simple contact forms with areas for name, email and massage with a button to submit.
+* a massage that changes with time of day
 
 ## Setup instructions
 No frameworks or outside libraries used just run the index.html file.
