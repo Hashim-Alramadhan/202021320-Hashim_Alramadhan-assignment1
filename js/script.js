@@ -1,6 +1,8 @@
+//getting the html element and creating new Date object
 const greeting = document.getElementById("greeting");
 const hour = new Date().getHours();
 
+//change greating base on time of day
 switch (true) {
     case (hour < 12):
         greeting.textContent = "Good Morning";
